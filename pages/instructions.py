@@ -10,16 +10,16 @@ with st.form("instruction"):
 
     # st.subheader("Instructions\n_______________________________________________")
     st.text("""
-    1. Be Descipline and Punctual to the Classes
-    2. Turning on camera
+    1. Be disciplined and punctual in the class
+    2. Turning on the camera
     3. Do not disturb while class is on
     4. Do Assignments on time.
-    5. Do not share Meet link with others
+    5. Do not share the meet link with others
     6. Be active in the class
-    7. Resepect Your peers(class mates) and Instructor
-    8. Plant 2 trees and Donation of blood 
-    9. Need to attend all LST(Life Skills Training) Sessions
-    10.If you want a leave, You need to mention it 
+    7. Respect your peers(classmates) and Instructor
+    8. You are required to plant 2 trees and donation of blood 
+    9. Need to attend all LST(Life Skills Training) sessions
+    10. If you want sick leave, you need to mention it 
         before the day in the group.
         
             
