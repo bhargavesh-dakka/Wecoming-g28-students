@@ -9,18 +9,18 @@ with st.form("instruction"):
 
 
     # st.subheader("Instructions\n_______________________________________________")
-    st.text("""
-    1. Be disciplined and punctual in the class
-    2. Turning on the camera
-    3. Do not disturb while class is on
-    4. Do Assignments on time.
-    5. Do not share the meet link with others
-    6. Be active in the class
-    7. Respect your peers(classmates) and Instructor
-    8. You are required to plant 2 trees and donation of blood 
-    9. Need to attend all LST(Life Skills Training) sessions
-    10. If you want sick leave, you need to mention it 
-        before the day in the group.
+    st.text("""Here are some guidelines to follow for a successful and productive online class:
+
+1. Attend class on time and be respectful by staying engaged and focused.
+2. Enable your camera to create a more interactive learning experience.
+3. Avoid interruptions and distractions during class time.
+4. Complete your assignments on schedule to stay on track with the curriculum.
+5. Keep the meeting link private and do not share it with anyone outside the class.
+6. Participate actively in the class to maximize your learning potential.
+7. Treat your classmates and instructor with respect and kindness.
+8. As part of our commitment to the environment and community, you are encouraged to plant two trees and donate blood.
+9. Attendance is mandatory for all Life Skills Training sessions.
+10. Please inform the instructor beforehand if you need to request sick leave.
         
             
     """)
