@@ -9,7 +9,7 @@ with st.form("instruction"):
 
 
     # st.subheader("Instructions\n_______________________________________________")
-    st.text("""Here are some guidelines to follow for a successful and productive online class:
+    st.write("""Here are some guidelines to follow for a successful and productive online class:
 
 1. Attend class on time and be respectful by staying engaged and focused.
 2. Enable your camera to create a more interactive learning experience.
